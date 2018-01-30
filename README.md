@@ -1,7 +1,7 @@
 # laravel_CRUD_with_auth_supreme
 Simple login with classic user auth and some crud
 
-Projcet test link:
+Project test link:
 
 http://supreme-crud.creas.pl/Supreme/login
 
